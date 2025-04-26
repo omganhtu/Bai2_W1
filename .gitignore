@@ -1,0 +1,10 @@
+# Ignore target folder
+/target/
+
+# Ignore IntelliJ IDEA files
+/.idea/
+/*.iml
+
+# Ignore Maven specific files
+/logs/
+/out/
